@@ -18,7 +18,7 @@
 
 ## Screenshots
 
-![c1](https://github.com/ayushsahu07/Flutter-ToDo-App/assets/146854646/b692ff8d-0bdf-4fbf-906b-b5a54a7335d7](https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/ayushsahu07/Voice_Assistant-N.O.V.A-/assets/146854646/64e1ccd4-f05d-4411-b9fb-f52303435be5)https://github.com/ayushsahu07/Voice_Assistant-N.O.V.A-/assets/146854646/64e1ccd4-f05d-4411-b9fb-f52303435be5)https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/ayushsahu07/Voice_Assistant-N.O.V.A-/assets/146854646/64e1ccd4-f05d-4411-b9fb-f52303435be5)https://github.com/ayushsahu07/Voice_Assistant-N.O.V.A-/assets/146854646/64e1ccd4-f05d-4411-b9fb-f52303435be5)
+![Nova](https://github.com/ayushsahu07/Voice_Assistant-N.O.V.A-/assets/146854646/43bb7588-3fb4-429a-bbe1-4f89a10dcc04)
 
 ## Warning ⚠️
 
