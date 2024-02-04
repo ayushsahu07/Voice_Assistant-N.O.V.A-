@@ -18,7 +18,7 @@
 
 ## Screenshots
 
-![Nova](https://github.com/ayushsahu07/Voice_Assistant-N.O.V.A-/assets/146854646/43bb7588-3fb4-429a-bbe1-4f89a10dcc04)
+[Nova](https://github.com/ayushsahu07/Voice_Assistant-N.O.V.A-/assets/146854646/43bb7588-3fb4-429a-bbe1-4f89a10dcc04)
 
 ## Warning ⚠️
 
